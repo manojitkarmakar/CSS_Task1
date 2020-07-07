@@ -1,1 +1,1 @@
-! [Alt text](Images/Capture1.png? raw=true "Picture 1" )
+! [Alt text](Images/Capture1.PNG? raw=true "Picture 1" )
