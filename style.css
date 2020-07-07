@@ -1,0 +1,49 @@
+body{
+	background-image: url(./Images/message.jpg);
+	background-size: 90px;
+	background-repeat: no-repeat;
+	background-position: 98% 100%;
+	background-attachment: fixed;
+	background-color: rgb(165, 165, 165, 0.5);
+	padding-right: 20px;
+	padding-left: 20px
+}
+
+#x-background{
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190223/ourmid/pngtree-pure-color-watercolor-graffiti-gradient-background-board-design-board-design-image_66713.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	border-radius: 10px;
+
+}
+h1{
+	color: black;
+	font-family: "Goudy Bookletter 1911", sans-serif;
+	text-align: left;
+	padding-top: 120px;
+	padding-left: 30px;
+	font-size: 40px;
+}
+.container{
+	background-color: white;
+	border: groove;
+	border-radius: 10px;
+}
+h3{
+	color: black;
+	font-family: "Trebuchet MS", sans-serif;
+	text-align: left;
+	padding-top: 0px;
+	padding-left: 30px;
+	font-size: 30px;
+}
+p{
+	color: black;
+	font-family: "Palatino Linotype", serif;
+	text-align: justify;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+
