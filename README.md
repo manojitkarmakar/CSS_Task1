@@ -1,3 +1,1 @@
-# CSS_bg_property_test
-
-background-image {Images/Capture1.png}
+! [Alt text](Images/Capture1.png? raw=true "Picture 1" )
