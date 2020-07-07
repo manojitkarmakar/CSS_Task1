@@ -1,4 +1,3 @@
 # CSS_bg_property_test
-Practicing
-background-image { image/Capture1
-}
+
+background-image {images/Capture1}
